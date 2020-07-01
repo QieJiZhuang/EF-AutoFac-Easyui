@@ -1,0 +1,11 @@
+D:\Demo\Test\EF+IOC+Vue\Permission_Common\bin\Debug\Permission_Common.dll
+D:\Demo\Test\EF+IOC+Vue\Permission_Common\bin\Debug\Permission_Common.pdb
+D:\Demo\Test\EF+IOC+Vue\Permission_Common\obj\Debug\Permission_Common.csproj.CoreCompileInputs.cache
+D:\Demo\Test\EF+IOC+Vue\Permission_Common\obj\Debug\Permission_Common.dll
+D:\Demo\Test\EF+IOC+Vue\Permission_Common\obj\Debug\Permission_Common.pdb
+D:\Demo\Test\EF+IOC+Vue\Permission_Common\obj\Debug\Permission_Common.csprojAssemblyReference.cache
+D:\Demo\Test\EF+IOC+Vue\Permission_Common\bin\Debug\log4net.dll
+D:\Demo\Test\EF+IOC+Vue\Permission_Common\bin\Debug\Newtonsoft.Json.dll
+D:\Demo\Test\EF+IOC+Vue\Permission_Common\bin\Debug\VerifyCode.dll
+D:\Demo\Test\EF+IOC+Vue\Permission_Common\bin\Debug\log4net.xml
+D:\Demo\Test\EF+IOC+Vue\Permission_Common\obj\Debug\Permission_Common.csproj.CopyComplete

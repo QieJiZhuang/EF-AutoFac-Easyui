@@ -1,0 +1,6 @@
+D:\Demo\Test\EF+IOC+Vue\Permission_Common\bin\Release\Permission_Common.dll
+D:\Demo\Test\EF+IOC+Vue\Permission_Common\bin\Release\Permission_Common.pdb
+D:\Demo\Test\EF+IOC+Vue\Permission_Common\obj\Release\Permission_Common.csprojAssemblyReference.cache
+D:\Demo\Test\EF+IOC+Vue\Permission_Common\obj\Release\Permission_Common.csproj.CoreCompileInputs.cache
+D:\Demo\Test\EF+IOC+Vue\Permission_Common\obj\Release\Permission_Common.dll
+D:\Demo\Test\EF+IOC+Vue\Permission_Common\obj\Release\Permission_Common.pdb

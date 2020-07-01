@@ -1,0 +1,13 @@
+D:\Demo\Test\EF+IOC+Vue\Permission_DTO\bin\Release\Permission_DTO.dll.config
+D:\Demo\Test\EF+IOC+Vue\Permission_DTO\bin\Release\Permission_DTO.dll
+D:\Demo\Test\EF+IOC+Vue\Permission_DTO\bin\Release\Permission_DTO.pdb
+D:\Demo\Test\EF+IOC+Vue\Permission_DTO\bin\Release\EntityFramework.dll
+D:\Demo\Test\EF+IOC+Vue\Permission_DTO\bin\Release\EntityFramework.SqlServer.dll
+D:\Demo\Test\EF+IOC+Vue\Permission_DTO\bin\Release\EntityFramework.xml
+D:\Demo\Test\EF+IOC+Vue\Permission_DTO\bin\Release\EntityFramework.SqlServer.xml
+D:\Demo\Test\EF+IOC+Vue\Permission_DTO\bin\Release\zh-Hans\EntityFramework.resources.dll
+D:\Demo\Test\EF+IOC+Vue\Permission_DTO\bin\Release\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\Demo\Test\EF+IOC+Vue\Permission_DTO\obj\Release\Permission_DTO.csproj.CoreCompileInputs.cache
+D:\Demo\Test\EF+IOC+Vue\Permission_DTO\obj\Release\Permission_DTO.csproj.CopyComplete
+D:\Demo\Test\EF+IOC+Vue\Permission_DTO\obj\Release\Permission_DTO.dll
+D:\Demo\Test\EF+IOC+Vue\Permission_DTO\obj\Release\Permission_DTO.pdb

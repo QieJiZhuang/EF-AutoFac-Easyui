@@ -1,0 +1,13 @@
+D:\Demo\Test\EF+IOC+Vue\Permission_IService\bin\Debug\Permission_IService.dll
+D:\Demo\Test\EF+IOC+Vue\Permission_IService\bin\Debug\Permission_IService.pdb
+D:\Demo\Test\EF+IOC+Vue\Permission_IService\bin\Debug\Permission_DTO.dll
+D:\Demo\Test\EF+IOC+Vue\Permission_IService\bin\Debug\EntityFramework.dll
+D:\Demo\Test\EF+IOC+Vue\Permission_IService\bin\Debug\Permission_DTO.pdb
+D:\Demo\Test\EF+IOC+Vue\Permission_IService\bin\Debug\Permission_DTO.dll.config
+D:\Demo\Test\EF+IOC+Vue\Permission_IService\bin\Debug\EntityFramework.xml
+D:\Demo\Test\EF+IOC+Vue\Permission_IService\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\Demo\Test\EF+IOC+Vue\Permission_IService\obj\Debug\Permission_IService.csprojAssemblyReference.cache
+D:\Demo\Test\EF+IOC+Vue\Permission_IService\obj\Debug\Permission_IService.csproj.CoreCompileInputs.cache
+D:\Demo\Test\EF+IOC+Vue\Permission_IService\obj\Debug\Permission_IService.csproj.CopyComplete
+D:\Demo\Test\EF+IOC+Vue\Permission_IService\obj\Debug\Permission_IService.dll
+D:\Demo\Test\EF+IOC+Vue\Permission_IService\obj\Debug\Permission_IService.pdb

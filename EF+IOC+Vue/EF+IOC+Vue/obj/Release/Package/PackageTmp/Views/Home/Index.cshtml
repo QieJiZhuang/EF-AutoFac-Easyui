@@ -1,0 +1,30 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    
+</head>
+<body>
+    <div>
+        <div id="app">
+          世界上谁最帅： {{message}}
+        </div>
+    </div>
+</body>
+</html>
+<script src="~/Scripts/vue.js"></script>
+<script>
+    const app = new Vue({
+        el: '#app',
+        data: {
+            message:'郄继壮',
+        }
+    })
+</script>

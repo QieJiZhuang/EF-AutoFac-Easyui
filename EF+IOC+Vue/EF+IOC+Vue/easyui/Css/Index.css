@@ -1,0 +1,100 @@
+﻿.top {
+    height:80px;
+    border-bottom:1px #95b8e7 solid;
+    background-image:url(../Images/top.png);
+}
+.header {
+    height:80px;
+    background-color:#ecf3ff;
+}
+.button-tools {
+    float:right;
+    margin-right:10px;
+    margin-top:40px;
+}
+
+.exit-system {
+    float:right;
+    margin-right:10px;
+    margin-left:20px;
+}
+
+.curUserInfo {
+    line-height:24px;
+    padding-right:40px;
+}
+
+.footer {
+    line-height:35px;
+    text-align:center;
+    background-color:#ecf3ff;
+}
+
+/*主模板结束*/
+
+.SearchPageList {
+    text-align: center;
+    margin-bottom: 10px;
+    display: none;
+    color: rgb( 93, 93, 93 );
+    margin-top:20px;
+}
+
+.Pages {
+    height: 30px;
+    line-height: 30px;
+}
+
+#TopPage, #LastPage, #NextPage, #BottomPage {
+    padding: 0 7px;
+    font-size: 14px;
+}
+
+a {
+    cursor: pointer;
+}
+
+.PageNo_Selected {
+    background-color: #FFF2EC;
+    border: 1px solid #FBCD78;
+    color: #f85a01;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    height: 28px;
+    line-height: 28px;
+    display: inline-block;
+    margin-right: 5px;
+    padding: 0 7px;
+}
+
+.PageNo_noSelect {
+    background-color: #F3F4F6;
+    border: 1px solid #C4C7D1;
+    color: #313131;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    height: 28px;
+    line-height: 28px;
+    display: inline-block;
+    padding: 0 7px;
+    margin-right: 5px;
+}
+
+.easyui-accordion ul{list-style-type:none;margin:0px; padding:10px;}
+.easyui-accordion ul li{ padding:0px;clear:both;overflow:hidden;}
+
+.easyui-accordion ul li div{margin:2px 0px;padding-left:10px;padding-top:3px;padding-bottom:3px; overflow:hidden;}
+.easyui-accordion ul li .defined-icon{ display:block;width:16px;height:16px;float:left;}
+.easyui-accordion ul li .nav{ display:block;width:130px;height:16px;float:left;line-height:16px;margin-left:3px;}
+.easyui-accordion ul li a{line-height:24px;}
+
+.easyui-accordion ul li div.hover{border:1px dashed #99BBE8; background:#E0ECFF;cursor:pointer;}
+.easyui-accordion ul li div.hover a{color:#416AA3;}
+.easyui-accordion ul li div.selected{border:1px solid #99BBE8; background:#E0ECFF;cursor:default;}
+.easyui-accordion ul li div.selected a{color:#416AA3; font-weight:bold;}
+.tabs-panels {
+            padding: 5px;
+        }
